@@ -1,6 +1,6 @@
 # OraCrew_KPA
 This is our first time competing in hackathon and had lots of fun in joining this Competition, we hope to be part of the future hackathons for Oracle Community, 
-let me tell you a bit of background for our application:
+let me tell you a bit of a background for our application:
 
 Our application “Klima Pythia Analytika” – weather forecast application aims to provide accurate weather prediction for the F1 Racing Video Game
 
